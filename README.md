@@ -6,20 +6,23 @@ Short version: start with a real entry-level turntable and keep the first system
 
 ### Buying
 
-- [docs/buying/guide.md](c:\Users\Justin Minsk\Documents\audio-record-plan\docs\buying\guide.md) for what matters, what does not, and kitchen-adjacent placement notes.
-- [docs/buying/reading-list.md](c:\Users\Justin Minsk\Documents\audio-record-plan\docs\buying\reading-list.md) for articles and guides worth reading before buying.
+- [docs/buying/guide.md](.\docs\buying\guide.md) for what matters, what does not, and kitchen-adjacent placement notes.
+- [docs/buying/reading-list.md](.\docs\buying\reading-list.md) for articles and guides worth reading before buying.
+
+### Collecting
+
+- [docs/collecting/guide.md](.\docs\collecting\guide.md) for grading basics, sourcing habits, and a used-bin workflow.
 
 ### Setup
 
-- [docs/setup/paths.md](c:\Users\Justin Minsk\Documents\audio-record-plan\docs\setup\paths.md) for concrete setup options by budget and style.
+- [docs/setup/paths.md](.\docs\setup\paths.md) for concrete setup options by budget and style.
 
 ### Explore
 
-- [docs/explore/niche-reading.md](c:\Users\Justin Minsk\Documents\audio-record-plan\docs\explore\niche-reading.md) for more hobby-side reading beyond basic buying and setup.
+- [docs/explore/niche-reading.md](.\docs\explore\niche-reading.md) for more hobby-side reading beyond basic buying and setup.
 
 ### Next Topics
 
-- Collecting
 - Maintenance
 - Upgrades
 
