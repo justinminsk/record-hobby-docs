@@ -1,39 +1,21 @@
 # Vinyl Setup Notes
 
-Short version: start with a real entry-level turntable and keep the first system simple. For this budget and style, the default path is still `turntable + powered speakers`, unless you find a strong used passive-speaker deal locally.
+This repository contains practical defaults for a first vinyl setup and record collection, focused on keeping things simple, clean, and within a reasonable budget.
 
-## Topics
+📖 **[Read the full documentation here](https://justinminsk.github.io/record-hobby-docs/)** *(Note: The link will work once GitHub Pages is enabled)*
 
-### Buying
+## Topics Covered
+- **Setup Paths:** Concrete setup options by budget and style.
+- **Buying:** What matters, what does not, and placement notes.
+- **Collecting:** Grading basics, sourcing habits, and a used-bin workflow.
+- **Maintenance:** Basic turntable and record maintenance.
+- **Upgrades:** The upgrade path, from speakers to styli.
+- **Explore:** Hobby-side reading beyond basic buying and setup.
 
-- [docs/buying/guide.md](.\docs\buying\guide.md) for what matters, what does not, and kitchen-adjacent placement notes.
-- [docs/buying/reading-list.md](.\docs\buying\reading-list.md) for articles and guides worth reading before buying.
-
-### Collecting
-
-- [docs/collecting/guide.md](.\docs\collecting\guide.md) for grading basics, sourcing habits, and a used-bin workflow.
-
-### Setup
-
-- [docs/setup/paths.md](.\docs\setup\paths.md) for concrete setup options by budget and style.
-
-### Explore
-
-- [docs/explore/niche-reading.md](.\docs\explore\niche-reading.md) for more hobby-side reading beyond basic buying and setup.
-
-### Next Topics
-
-- Maintenance
-- Upgrades
-
-## Current Recommendation
-
-If you want the cleanest first system under roughly `$500`, aim for:
-
-1. A new entry-level turntable from a reputable brand.
-2. Powered speakers instead of a receiver-plus-passive stack.
-3. One basic record brush and no other accessories yet.
-
-The main tradeoff is simple: all-in-one is cheapest and easiest, powered speakers are the best fit for this budget, and a receiver/passive setup becomes more compelling once the budget grows or you find used bargains.
-
-This repo's current recommendations are based on a mix of Wirecutter for comparative testing, Crutchfield for feature and connection explainers, and Discogs for collecting and storage guidance.
+## Contributing
+These docs are built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+To build the site locally:
+```bash
+pip install mkdocs-material
+mkdocs serve
+```
