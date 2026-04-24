@@ -55,3 +55,5 @@ If sound only comes out of the left or right speaker:
 ## Still Stuck?
 
 If you are dealing with a vintage turntable or a complex issue not listed here, the community is your best friend. Check out the **[Community Resources & Links](../explore/community-resources.md)** page to find the best forums (like Audiokarma or r/turntables) to ask for help.
+
+If you are trying to fix an all-in-one suitcase player, check out **[Techmoan's YouTube channel](../explore/community-resources.md)**—he has excellent tear-downs explaining the mechanical limitations of these specific mechanisms.
