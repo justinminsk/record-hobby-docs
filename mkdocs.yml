@@ -44,6 +44,7 @@ nav:
   - Setup:
       - Paths: setup/paths.md
       - Troubleshooting: setup/troubleshooting.md
+      - Beginner Mistakes: setup/beginner-mistakes.md
   - Buying:
       - Guide: buying/guide.md
       - Reading List: buying/reading-list.md
