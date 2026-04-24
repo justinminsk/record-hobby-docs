@@ -59,6 +59,7 @@ Practical default:
 - Prefer sellers who explain playback issues clearly.
 - Cross-check the exact release, catalog number, and format.
 - For expensive copies, ask about play grading, warps, seam splits, and inserts.
+- **Tip:** If you are about to spend a lot of money on a specific pressing, check the [Steve Hoffman Forums](../explore/community-resources.md) first to ensure that specific pressing is actually known to sound good.
 
 ## After You Buy
 

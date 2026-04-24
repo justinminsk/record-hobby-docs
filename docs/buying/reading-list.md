@@ -1,47 +1,46 @@
 # Buying Reading List
 
-## Best First Reads
+The internet is flooded with turntable reviews. To avoid generic affiliate-link farms, stick to dedicated audio publications and experienced reviewers.
 
-- [The Best Turntables and Record Players](https://www.nytimes.com/wirecutter/reviews/best-turntable/)
-  Good overview of current beginner and step-up picks.
+## 1. Top Audio Publications
 
-- [The Best Record Player Setup for Beginners](https://www.nytimes.com/wirecutter/lists/the-best-record-player-setup-for-beginners/)
-  Useful for understanding the three main paths: all-in-one, starter combo, and step-up system.
+When you want deeply researched comparisons and measurements:
 
-- [Outgrown Your Starter Record Player? Here's How to Shop for a Quality Turntable](https://www.nytimes.com/wirecutter/reviews/how-to-shop-for-a-turntable/)
-  Best quick read on belt drive vs direct drive, phono preamps, Bluetooth, cartridges, and ease-of-use features.
+- **[What Hi-Fi? Best Turntables Guide](https://www.whathifi.com/best-buys/hi-fi/best-turntables)**
+  The absolute gold standard for audio reviews. They break their recommendations down clearly by budget and feature set, and they actually test the equipment thoroughly in a dedicated listening room.
 
-## Setup And Practical Use
+- **[Turntable Lab: Beginners Guide to Turntables](https://www.turntablelab.com/pages/beginners-guide-to-turntables)**
+  One of the best visual guides on the internet. It beautifully explains the anatomy of a turntable, the difference between direct and belt drive, and what you actually need to get started.
 
-- [How to Connect Your New Turntable to Any Audio System](https://www.nytimes.com/wirecutter/blog/how-to-connect-your-new-turntable-to-any-audio-system/)
-  Read this before buying speakers so you do not miss the phono-preamp issue.
+- **[Analog Planet](https://www.analogplanet.com/)**
+  For when you want to look at the ultra-high-end or deep industry news, Michael Fremer's site is the place to go.
 
-- [How to Set Up Your Turntable to Sound Its Best](https://www.nytimes.com/wirecutter/guides/how-to-set-up-turntable/)
-  Useful once you actually buy the system. Covers leveling, tracking force, speed, and alignment.
+## 2. Video Buying Guides
 
-## Care And Upgrades
+Reading about audio gear is good, but seeing it in action and hearing the reviewers describe the sound signature is much better.
 
-- [How to Clean Vinyl Records](https://www.nytimes.com/wirecutter/guides/how-to-clean-vinyl-records/)
-  Practical cleaning workflow with a low-fuss approach.
+- **[The Audiophiliac (Steve Guttenberg)](https://www.youtube.com/c/SteveGuttenbergAudiophiliac)**
+  Search his channel for "Starter Audiophile System". Steve does an incredible job recommending complete systems (turntable + amp + speakers) that punch far above their weight class.
 
-- [Ready to Get Serious About Vinyl? Start With These Affordable Accessories](https://www.nytimes.com/wirecutter/blog/vinyl-affordable-accessories/)
-  Good for learning which accessories are actually worth it and which can wait.
+- **[Channel 33 RPM: Turntable Buying Guide](https://www.youtube.com/c/Channel33RPM)**
+  Frank provides incredibly down-to-earth, hype-free advice for normal people who just want to listen to records without spending thousands.
 
-- [How to Store Vinyl Records Properly: Sleeves, Shelves, and Climate Tips](https://www.discogs.com/digs/collecting/how-to-store-vinyl-records/)
-  Good collecting and storage reference, especially for heat, humidity, sleeves, and shelving.
+- **[Vinyl Rewind](https://www.youtube.com/user/TheVinylRewind)**
+  Excellent, highly-produced videos that break down beginner gear and explain the *why* behind different turntable components.
 
-## Sanity Checks
+## 3. Practical Setup & Upgrades
 
-- [Dear Wirecutter: Do Vintage Turntables Sound Better?](https://www.nytimes.com/wirecutter/blog/do-vintage-turntables-sound-better/)
-  Helpful if you start getting tempted by vintage listings. The short version: vintage can be good, but new is the safer first buy.
+Once you've made a purchase (or are planning the rest of your system):
 
-- [We Tested Cheap Victrola and Crosley Record Players. The Results Were Mixed.](https://www.nytimes.com/wirecutter/blog/cheap-record-players/)
-  Useful for seeing where the ultra-cheap market breaks down.
+- **[Crutchfield: How to Connect a Turntable](https://www.crutchfield.com/learn/how-to-connect-a-turntable.html)**
+  The clearest guide on the internet for understanding how to physically plug everything together, especially concerning the phono preamp.
 
-## Suggested Reading Order
+- **[Wirecutter: How to Clean Vinyl Records](https://www.nytimes.com/wirecutter/guides/how-to-clean-vinyl-records/)**
+  A good, low-fuss approach to basic record cleaning before you drop $500 on a vacuum cleaning machine.
 
-1. Start with the setup-for-beginners list.
-2. Read the turntable shopping guide.
-3. Cross-check with Crutchfield's buying guide for feature and connection terminology.
-4. Read the connection guide before buying.
-5. Save the setup, cleaning, and storage guides for after purchase.
+## 4. The Vintage Question
+
+If you are tempted by a beautiful 1970s Pioneer receiver or a vintage Technics turntable:
+
+- **[Audiokarma Forums](https://audiokarma.org/)**
+  Before buying *any* piece of vintage gear, search the model number on Audiokarma. You will instantly find out if it's a hidden gem or a notoriously unreliable money pit.

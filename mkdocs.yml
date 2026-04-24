@@ -43,6 +43,7 @@ nav:
   - Home: index.md
   - Setup:
       - Paths: setup/paths.md
+      - Troubleshooting: setup/troubleshooting.md
   - Buying:
       - Guide: buying/guide.md
       - Reading List: buying/reading-list.md
@@ -50,7 +51,10 @@ nav:
       - Guide: collecting/guide.md
   - Maintenance:
       - Guide: maintenance/guide.md
+      - Deep Cleaning: maintenance/deep-cleaning.md
   - Upgrades:
       - Guide: upgrades/guide.md
   - Explore:
+      - Glossary: explore/glossary.md
+      - Community Resources: explore/community-resources.md
       - Niche Reading: explore/niche-reading.md

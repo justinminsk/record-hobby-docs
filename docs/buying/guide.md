@@ -1,68 +1,37 @@
 # Buying Guide
 
-These are practical default rules for a first vinyl setup in this room and budget range, not absolutes. Prices, value, and used-market availability can vary by time and market.
+These are practical default rules for buying your first vinyl setup, focusing on building a system that sounds good now and gives you room to grow. Prices, value, and used-market availability will vary.
 
-## What Matters Most
+## 1. The Golden Rules of Buying
 
-- Buy a real turntable from a reputable brand, not a suitcase player.
-- Make sure there is a phono preamp somewhere in the chain.
-- Favor ease-of-use features you will actually use: cue lever, auto-stop, easy speed switching, or Bluetooth.
-- Spend most of the budget on the turntable and speakers, not accessories.
+- **Avoid the Suitcase:** Record players built into briefcases (like Crosley Cruisers or Victrolas) use cheap ceramic cartridges that track incredibly heavy, potentially damaging your records. They also skip frequently on modern, bass-heavy pressings.
+- **Look for the Counterweight:** A good turntable should have an adjustable counterweight at the back of the tonearm. If it doesn't, you can never upgrade the cartridge, and it likely tracks too heavily.
+- **Check the Cartridge Mount:** Favor turntables with a standard 1/2-inch cartridge mount (often on a removable headshell). This allows you to upgrade to almost any cartridge on the market later.
+- **Budget Allocation:** The golden rule of hi-fi is that your speakers make the biggest difference. Do not spend $500 on a turntable and plug it into a $50 Bluetooth speaker. Aim to split your budget roughly 50/50 between the turntable and the speakers/amp.
 
-## What To Prioritize In This Space
+## 2. New vs. Vintage
 
-- Keep the turntable on a sturdy, level cabinet.
-- Keep it away from steam, heat, direct sun, and appliance vibration.
-- If possible, do not put the speakers on the same surface as the turntable.
-- Leave enough room to open the dust cover comfortably.
+- **New Turntables:** The safest route for beginners. Brands like Audio-Technica, Pro-Ject, Fluance, and U-Turn offer warranties, modern connections (like built-in preamps), and guaranteed working parts.
+- **Vintage Turntables (1970s/1980s):** You can get incredible value and tank-like build quality (e.g., vintage Technics or Pioneer). However, they almost always require maintenance (new belts, lubrication, or a new stylus) and do not have built-in preamps. Only buy vintage if you are willing to tinker or are buying from a reputable, serviced shop.
+- **Used Speakers/Amps:** This is the best place to save money. High-quality speakers from 10 years ago still sound incredible today.
 
-## New Vs Used
+## 3. Direct Drive vs. Belt Drive
 
-- New turntable: safer default for a first setup.
-- Used speakers or amp: good place to chase value.
-- Vintage turntable: only worth the trouble if you are comfortable inspecting, maintaining, or repairing delicate moving parts.
+- **Belt Drive:** The motor spins a rubber belt that turns the platter. This isolates the motor noise from the needle. Most audiophile turntables use this. The downside is that the belt eventually stretches and needs replacing.
+- **Direct Drive:** The platter is attached directly to the motor. These start up instantly and hold speed incredibly well (crucial for DJs). High-end direct drives (like the Technics SL-1200) are legendary, but ultra-cheap direct drives can sometimes transmit motor noise to the stylus. Both are perfectly fine for home listening.
 
-## Quick Rules
+## 4. Accessories: What to Buy vs. What to Skip
 
-- Practical default for this budget and use case: powered speakers.
-- Mostly factual: a built-in phono preamp is useful for simple setups.
-- Mostly factual: belt drive is normal and fine for home listening.
-- Mostly factual: direct drive matters more if you want DJ features, faster start-up, or more speed flexibility.
+### Buy Immediately:
+- **Carbon-fiber record brush:** For dry-dusting before every play.
+- **Stylus brush or gel:** To keep the needle clean.
+- **Anti-static inner sleeves:** To replace the abrasive paper sleeves most records come in.
 
-## Accessories To Buy First
+### Skip For Now:
+- **Boutique cables:** Standard cables are fine until you have a $5,000+ system.
+- **Heavy record weights/clamps:** Can put undue strain on entry-level turntable motors without offering a noticeable sonic benefit.
+- **External Phono Stage:** If your turntable or amp has a built-in one, use it first. Only upgrade this once your speakers are highly revealing.
 
-- Carbon-fiber record brush.
-- Stylus brush or gel.
-- Inner sleeves as needed.
+## 5. Sources & Further Reading
 
-## Accessories To Skip At The Start
-
-- Boutique cables.
-- Expensive record weights or clamps.
-- Fancy mats unless the stock one is obviously poor and dusty.
-- External phono stage before the rest of the system is strong enough to justify it.
-
-## Setup Checks
-
-- Level the turntable.
-- Set the correct tracking force.
-- Confirm speed sounds right.
-- Test for feedback or skipping at normal listening volume.
-
-## Collecting Notes
-
-- Start with a short want-list instead of impulse buying.
-- Mix new records with carefully chosen used records.
-- Clean used records before first play.
-- Store records vertically.
-
-## Sources
-
-- [Outgrown Your Starter Record Player? Here's How to Shop for a Quality Turntable](https://www.nytimes.com/wirecutter/reviews/how-to-shop-for-a-turntable/)
-- [How to Connect Your New Turntable to Any Audio System](https://www.nytimes.com/wirecutter/blog/how-to-connect-your-new-turntable-to-any-audio-system/)
-- [How to Set Up Your Turntable to Sound Its Best](https://www.nytimes.com/wirecutter/guides/how-to-set-up-turntable/)
-- [Ready to Get Serious About Vinyl? Start With These Affordable Accessories](https://www.nytimes.com/wirecutter/blog/vinyl-affordable-accessories/)
-- [Dear Wirecutter: Do Vintage Turntables Sound Better?](https://www.nytimes.com/wirecutter/blog/do-vintage-turntables-sound-better/)
-- [How to choose the right turntable](https://www.crutchfield.com/learn/turntable-buying-guide.html)
-- [How to connect a turntable](https://www.crutchfield.com/learn/how-to-connect-a-turntable.html)
-- [How to Store Vinyl Records Properly: Sleeves, Shelves, and Climate Tips](https://www.discogs.com/digs/collecting/how-to-store-vinyl-records/)
+To dive deeper into specific models and reviews, check out our **[Buying Reading List](reading-list.md)**, featuring guides from What Hi-Fi?, Turntable Lab, and top YouTube reviewers.
