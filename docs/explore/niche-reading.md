@@ -1,48 +1,37 @@
-# Niche Reading
+# Niche Reading & Rabbit Holes
 
-This section is for hobby-side reading rather than first-purchase basics. It leans more toward collector questions, setup rabbit holes, format quirks, and record-culture topics.
+This section is for the deep dives. Once your system is set up and you're comfortable buying records, you might start wondering about the deeper mechanics of the hobby, or you might run into audiophile myths that sound too good to be true.
 
-## Good Rabbit Holes
+## Rabbit Hole 1: Audiophile Myths & Snake Oil
 
-- [What’s the Difference Between Mono and Stereo?](https://www.discogs.com/digs/collecting/mono-versus-stereo/)
-  Good if you start comparing older pressings and want to know when mono is historically or sonically interesting.
+The hi-fi audio world is notorious for selling incredibly expensive solutions to non-existent problems. Before you spend hundreds of dollars on accessories, read these:
 
-- [Does Colored Vinyl Sound Worse Than Black Vinyl?](https://www.discogs.com/digs/collecting/black-vs-color-vinyl/)
-  Useful for separating myth from reality. The practical takeaway is that mastering and pressing quality usually matter more than color alone.
+- **[Does Colored Vinyl Sound Worse Than Black Vinyl?](https://www.discogs.com/digs/collecting/black-vs-color-vinyl/)**
+  The short answer: no. The long answer involves mastering techniques and pressing plant quality control.
+- **The Cable Myth:** Do not buy $200 speaker cables or RCA interconnects. [Audioholics extensively tests cables](https://www.audioholics.com/audio-video-cables) and routinely proves that standard, properly shielded copper wire performs identically to exotic cables.
+- **Record Weights & Clamps:** Adding a heavy weight to the center of your record might look cool, but on an entry-level belt-drive turntable, it primarily just strains the motor.
 
-- [How to Store Vinyl Records Properly: Sleeves, Shelves, and Climate Tips](https://www.discogs.com/digs/collecting/how-to-store-vinyl-records/)
-  More detailed than a typical beginner guide, especially on humidity, shelving load, sleeves, and long-term storage.
+## Rabbit Hole 2: Formats & Analog History
 
-- [Records Made Simple: How To Build a Great Vinyl Setup on a Budget](https://www.discogs.com/digs/gear/budget-guide-to-record-players/)
-  More opinionated and product-specific than Wirecutter, which makes it useful as a second angle rather than a sole source.
+Vinyl isn't the only weird physical format, and the history of how records are made is fascinating.
 
-## Setup Rabbit Holes
+- **[Techmoan: Obscure Audio Formats](https://www.youtube.com/user/Techmoan)**
+  If you love analog audio, Techmoan's deep dives into failed physical formats (like Elcaset, MiniDisc, and bizarre tape machines) are legendary.
+- **[Michael Fremer's Pressing Plant Tours](https://www.youtube.com/c/TrackingAngle)**
+  Watch exactly how a lump of PVC is squashed into a record with thousands of pounds of pressure. 
+- **[What’s the Difference Between Mono and Stereo?](https://www.discogs.com/digs/collecting/mono-versus-stereo/)**
+  If you start buying jazz or rock records from the 1950s and 60s, you will encounter the great "Mono vs. Stereo" debate. This explains why some people pay premium prices for mono pressings of The Beatles.
 
-- [How to balance a tonearm on a record player](https://www.crutchfield.com/learn/how-to-balance-your-turntables-tonearm.html)
-  Good once you stop being a casual user and want to understand tracking force and anti-skate better.
+## Rabbit Hole 3: Collection Archeology
 
-- [8 tips for getting better sound from your turntable](https://www.crutchfield.com/learn/tips-for-better-turntable-sound.html)
-  Useful for the “what should I tweak next?” phase, though some suggestions matter more than others depending on system quality.
+Record collecting can branch into pressing history, genre archeology, and deep thematic collecting.
 
-- [How to connect a turntable](https://www.crutchfield.com/learn/how-to-connect-a-turntable.html)
-  Not niche by itself, but worth revisiting once you start thinking about external preamps, powered speakers, or wireless edge cases.
-
-## Collector-Culture Reading
-
-- [A Collector’s Guide to Global Vinyl Hunting](https://www.discogs.com/digs/collecting/a-collectors-guide-to-global-vinyl-hunting/)
-  Good travel-collector reading and a reminder that the hobby is also about digging, not just gear.
-
-- [What’s Plunderphonics? 10 Albums That Explain It](https://www.discogs.com/digs/music/essential-plunderphonics/)
-  Not a gear guide, but a good example of how the hobby can branch into pressing history, genre archaeology, and collection themes.
+- **[A Collector’s Guide to Global Vinyl Hunting](https://www.discogs.com/digs/collecting/a-collectors-guide-to-global-vinyl-hunting/)**
+  A reminder that the hobby is also about travel, digging, and local music scenes.
+- **[What’s Plunderphonics? 10 Albums That Explain It](https://www.discogs.com/digs/music/essential-plunderphonics/)**
+  A fantastic example of how the hobby opens up doors to sample-based music, pressing history, and copyright anomalies.
 
 ## How To Use This Section
 
-1. Read these after the buying/setup docs, not before.
-2. Treat Discogs and Crutchfield as useful perspectives, not universal truth.
-3. If a niche article pushes you toward spending money, cross-check with at least one other reputable source first.
-
-## Why These Are Here
-
-- They open up parts of the hobby that basic shopping guides do not cover.
-- They are better for developing taste and curiosity than for giving final purchase answers.
-- They help separate hobby myths from hobby-specific questions worth exploring.
+1. Treat this section as entertainment and education, not a strict buying guide.
+2. If a niche article pushes you toward spending a lot of money on a "micro-tweak," cross-check it on the [Community Resources](community-resources.md) forums first.

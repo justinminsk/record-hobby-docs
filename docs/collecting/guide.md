@@ -1,13 +1,20 @@
 # Collecting Guide
 
-These are practical collecting defaults, not strict rules. Record value, rarity, and what counts as a "good buy" can vary a lot by genre, market, and how picky you are about condition.
+These are practical collecting defaults. Record value, rarity, and what counts as a "good buy" vary wildly depending on the genre and how picky you are about condition.
 
 ## What Matters Early
 
-- Buy records you actually want to replay, not just records that seem like "good collector items."
-- Learn the basic condition gap between `NM`, `VG+`, `VG`, and `G` before buying used.
-- For most beginners, `VG+` is the safest used target.
-- Treat sleeve condition and vinyl condition as separate things.
+- **Buy records you actually want to replay**, not just records that seem like "good collector items."
+- **Learn the Goldmine Grading Standard** before buying used.
+- For most beginners, **VG+** is the safest used target.
+- Treat sleeve condition and vinyl condition as completely separate things.
+
+## Quick Grading Basics (Goldmine Standard)
+
+- **NM (Near Mint):** Nearly perfect; use this grade mentally as rare, not normal.
+- **VG+ (Very Good Plus):** Played and handled carefully. Minor cosmetic signs (light scuffs) are normal, but it should sound fantastic.
+- **VG (Very Good):** Playable, but expect visible wear and some audible surface noise (crackles in quiet parts).
+- **G / G+ (Good):** A terrible name for a grade. "Good" means heavily worn. Buy only if the record is cheap, incredibly rare, or sentimental.
 
 ## Used-Bin Inspection Flow
 
@@ -24,54 +31,28 @@ flowchart TD
     F -- Yes --> G[Buy, then clean before play]
 ```
 
-## Quick Grading Basics
-
-- `NM`: nearly perfect; use this grade mentally as rare, not normal.
-- `VG+`: played and handled carefully; minor cosmetic signs are normal.
-- `VG`: playable, but expect visible wear and some audible surface noise.
-- `G` or `G+`: buy only if the record is cheap, rare, or sentimental enough to justify obvious flaws.
-
-Practical default:
-
-- For casual listening copies, aim for `VG+` or better.
-- For hard-to-find originals, you may decide `VG` is acceptable.
-- For common titles, patience usually beats settling.
-
 ## What To Look For In Person
 
-- Check for warps before worrying about tiny sleeve wear.
-- Look for deep scratches you can feel or clearly see under light.
-- Watch for cloudy grime, mold, or signs the record was stored badly.
-- Check the spindle area and labels for signs of heavy handling.
-- Confirm the right record is actually inside the sleeve.
+- **Check for warps:** Hold the record at eye level to see if it resembles a bowl. Warps are much worse than tiny sleeve wear.
+- **Feel for scratches:** If you can feel a scratch with your fingernail, you will definitely hear a loud "POP" every time the needle hits it.
+- **Spindle marks:** Look at the label around the center hole. Lots of "spider marks" mean the previous owner struggled to put the record on the platter, indicating heavy, careless use.
+- **Confirm the matrix:** Make sure the actual record inside the sleeve matches what you think you are buying.
 
-## Good Used-Bin Habits
+## Online Buying Habits (Discogs)
 
-- Keep a short want-list on your phone.
-- Know your ceiling price for common titles before digging.
-- Compare pressing details, not just album titles.
-- If a store grades aggressively, buy more cautiously there.
-- When in doubt, leave it and keep looking.
+Discogs is the world's largest marketplace for records, but you must navigate it carefully.
 
-## Online Buying Habits
+- **Beware of Over-Grading:** Many amateur sellers grade their records visually, not by playing them. A record that looks VG+ might sound VG if it has deep-seated groove wear.
+- **Read the seller comments:** Never buy a record based solely on the assigned grade. Prefer sellers who write specific descriptions (e.g., "Plays great, minor crackle in track 2").
+- **Check the [Steve Hoffman Forums](../explore/community-resources.md):** If you are about to spend $100 on a specific vintage pressing, search the forums first to ensure that specific pressing actually sounds good. Some original pressings are notoriously bad.
+- **Catalog Your Collection:** Download the Discogs app to scan barcodes and keep track of your collection. It helps you avoid buying duplicates and gives you a rough estimate of your collection's value.
 
-- Read seller comments, not just the grade.
-- Prefer sellers who explain playback issues clearly.
-- Cross-check the exact release, catalog number, and format.
-- For expensive copies, ask about play grading, warps, seam splits, and inserts.
-- **Tip:** If you are about to spend a lot of money on a specific pressing, check the [Steve Hoffman Forums](../explore/community-resources.md) first to ensure that specific pressing is actually known to sound good.
+## Crate Digging Culture
+
+Crate digging is half the fun of the hobby. To see what real crate digging looks like, check out **[Noble Records on YouTube](https://www.youtube.com/c/NobleRecords)**. Dillon provides incredible insights into identifying rare pressings, evaluating condition in the wild, and the day-to-day life of running an independent record store.
 
 ## After You Buy
 
-- Clean used records before first play.
-- Replace bad inner sleeves with anti-static or poly-lined sleeves.
-- Store records vertically.
-- Do not leave records stacked flat or sitting on the turntable for long periods.
-
-## Sources
-
-- [How To Grade Items](https://support.discogs.com/hc/en-us/articles/360001566193)
-- [How to Store Vinyl Records Properly: Sleeves, Shelves, and Climate Tips](https://www.discogs.com/digs/collecting/how-to-store-vinyl-records/)
-- [How to Clean Vinyl Records](https://www.nytimes.com/wirecutter/guides/how-to-clean-vinyl-records/)
-- [Our Favorite Ways to Protect and Show Off Your Vinyl Records](https://www.nytimes.com/wirecutter/reviews/how-to-display-protect-vinyl-records/)
-- [A Collector’s Guide to Global Vinyl Hunting](https://www.discogs.com/digs/collecting/a-collectors-guide-to-global-vinyl-hunting/)
+- **Clean used records before first play:** See our [Deep Cleaning Guide](../maintenance/deep-cleaning.md).
+- **Replace bad inner sleeves:** Swap abrasive paper sleeves for anti-static poly-lined sleeves.
+- **Store records vertically:** Never stack records flat on top of each other; the weight will warp them and cause ring-wear on the jackets.
