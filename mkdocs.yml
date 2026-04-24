@@ -48,6 +48,7 @@ nav:
   - Buying:
       - Guide: buying/guide.md
       - Reading List: buying/reading-list.md
+      - Headphones: buying/headphones.md
   - Collecting:
       - Guide: collecting/guide.md
   - Maintenance:
@@ -57,5 +58,6 @@ nav:
       - Guide: upgrades/guide.md
   - Explore:
       - Glossary: explore/glossary.md
+      - Exploring Genres: explore/genres.md
       - Community Resources: explore/community-resources.md
       - Niche Reading: explore/niche-reading.md
