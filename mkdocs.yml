@@ -40,28 +40,27 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
-  - Home: index.md
-  - Setup:
-      - Paths: setup/paths.md
-      - Troubleshooting: setup/troubleshooting.md
-      - Beginner Mistakes: setup/beginner-mistakes.md
-  - Buying:
-      - Guide: buying/guide.md
+  - Introduction: index.md
+  - "Phase 1: Acquiring the Gear":
+      - The Golden Rules: buying/guide.md
       - Brand Lineups: buying/brand-lineups.md
-      - Reading List: buying/reading-list.md
       - Example Setups: buying/example-setups.md
       - Deep Dive Upgrades: buying/deep-dive.md
-      - Speakers: buying/speakers.md
-      - Headphones: buying/headphones.md
-  - Collecting:
-      - Guide: collecting/guide.md
-  - Maintenance:
-      - Guide: maintenance/guide.md
-      - Deep Cleaning: maintenance/deep-cleaning.md
-  - Upgrades:
-      - Guide: upgrades/guide.md
-  - Explore:
-      - Glossary: explore/glossary.md
-      - Exploring Genres: explore/genres.md
+      - Focus on Speakers: buying/speakers.md
+      - Focus on Headphones: buying/headphones.md
+  - "Phase 2: Putting it Together":
+      - The Signal Chain: setup/paths.md
+      - Avoiding Beginner Mistakes: setup/beginner-mistakes.md
+      - Troubleshooting: setup/troubleshooting.md
+  - "Phase 3: The Music":
+      - The Art of Collecting: collecting/guide.md
+      - Exploring Genres on Vinyl: explore/genres.md
+  - "Phase 4: Care & Feeding":
+      - Basic Maintenance: maintenance/guide.md
+      - Deep Cleaning Methods: maintenance/deep-cleaning.md
+      - The Upgrade Philosophy: upgrades/guide.md
+  - "Phase 5: The Rabbit Hole":
       - Community Resources: explore/community-resources.md
-      - Niche Reading: explore/niche-reading.md
+      - Audiophile Reading List: buying/reading-list.md
+      - Niche Deep Dives: explore/niche-reading.md
+      - Glossary of Terms: explore/glossary.md
